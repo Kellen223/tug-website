@@ -8,7 +8,7 @@ const data = {
     },
     {
       avatar: '',
-      name: '于振华',
+      name: '黄潇',
       company: '北银金科',
       title: '云计算应用部副总经理',
     },
